@@ -23,7 +23,7 @@ public:
   // перегрузка операторов
   Complex& operator=(const Complex& c);              // перегруженный оператор присваивания
 
-  bool operator==(const Complex& c) {                 // дз
+  bool operator==(const Complex& c) {
     if (re == c.re && im == c.im) {
       return true;
     } else {
