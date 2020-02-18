@@ -5,14 +5,13 @@
 
 ## Discription
 
-This is my first task with programming language C++ - realitation of Class Pointer, that have:
 ### This program can calculate complex numbers, also there is overload of this operators:
 * "+"
 * "-"
 * "/"
 * "*"
 * "=="
-* "<<"
+* "<<"  
 
 "<<" work with "cout"
 
