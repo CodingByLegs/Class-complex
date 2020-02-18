@@ -31,9 +31,9 @@ public:
     }
   }
   Complex operator+(const Complex& c);               // перегруженные оператор сложения
-  Complex operator-(const Complex& c);               // дз
-  Complex operator*(const Complex& c);               // дз
-  Complex operator/(const Complex& c);               // дз
+  Complex operator-(const Complex& c);
+  Complex operator*(const Complex& c);
+  Complex operator/(const Complex& c);
 
   // Следующие функции рассмотрим на занятии вместе (можно попробовать самим вперёд)
   friend Complex operator+(double d, const Complex& c);
