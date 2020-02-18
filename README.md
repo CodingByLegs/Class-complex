@@ -13,7 +13,7 @@ This is my first task with programming language C++ - realitation of Class Point
 *"*"
 *"=="
 *"<<"
-"<<" work with "cout"
+"<<" work with "cout
 
 ###Anouther functions:
 *Add(const Complex& c) - add two complex numbers
